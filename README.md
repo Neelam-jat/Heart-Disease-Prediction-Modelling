@@ -168,7 +168,7 @@ While Logistic Regression is great for linear relationships, clinical data often
 
 **In medical diagnostics, which evaluation metric is most important and why?**
 In healthcare, **Recall (Sensitivity)** is the most critical metric. 
-*   Precision = TP/ TP + FN
+*   Recall = TP/ TP + FN
 * Precision = TP/  TP + FP
 
 Optimizing for Recall minimizes False Negatives (FN). Telling a sick patient they are healthy is far more dangerous than telling a healthy patient they might be sick and ordering a follow-up test.
